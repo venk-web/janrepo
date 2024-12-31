@@ -13,3 +13,7 @@ professional:
 village:
 	name: sudd
 	type: vil
+
+body:
+	part: mouth
+	type: good
