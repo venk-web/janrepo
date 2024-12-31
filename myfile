@@ -9,3 +9,8 @@ education:
 professional:
 	company: xyz
 	salary: 10k
+
+body:
+	part: mouth
+	type: good
+
