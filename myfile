@@ -14,3 +14,7 @@ body:
 	part: mouth
 	type: good
 
+village:
+	name: sudd
+	type: vil
+
