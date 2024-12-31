@@ -9,3 +9,7 @@ education:
 professional:
 	company: xyz
 	salary: 10k
+
+village:
+	name: sudd
+	type: vil
