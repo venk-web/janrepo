@@ -5,3 +5,7 @@ basic:
 education:
 	school: vev
 	study: 10
+
+professional:
+	company: xyz
+	salary: 10k
