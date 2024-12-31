@@ -1,3 +1,7 @@
 basic:
 	name: venky
 	surname: mattu
+
+education:
+	school: vev
+	study: 10
