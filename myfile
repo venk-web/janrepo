@@ -18,3 +18,10 @@ village:
 	name: sudd
 	type: vil
 
+friend:
+	name: san
+	type: good
+
+location:
+	guntur
+	yeye
